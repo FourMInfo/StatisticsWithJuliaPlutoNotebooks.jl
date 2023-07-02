@@ -1,0 +1,30 @@
+#conda install r-base r-essentials
+jupyterlab
+matplotlib
+scikit-learn
+#mkl
+plotly
+boto3
+geojson
+munch
+#coin-or-cbc
+cython
+scipy
+numpy
+networkx
+mpmath
+affine
+geos
+pandoc-attributes
+polyline
+findspark
+appdirs
+chroma-py
+aws-requests-auth
+# brew install poppler
+# brew install gcc cmake pkg-config
+python-poppler
+#tzcode
+tabulate
+jsonlines
+# brew install giflib

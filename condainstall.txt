@@ -1,0 +1,5 @@
+conda install r-base r-essentials
+conda install jupyterlab matplotlib scikit-learn mkl
+conda install plotly boto3 geojson munch coin-or-cbc cython scipy numpy networkx mpmath affine geos pandoc-attributes polyline
+conda install findspark appdirs chroma-py aws-requests-auth poppler-data tzcode tabulate jsonlines giflib
+
