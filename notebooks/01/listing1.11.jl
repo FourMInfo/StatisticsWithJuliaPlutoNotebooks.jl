@@ -1,5 +1,5 @@
 ### A Pluto.jl notebook ###
-# v0.12.6
+# v0.19.27
 
 using Markdown
 using InteractiveUtils
@@ -31,7 +31,7 @@ function hailLength(x::Int)
 end
 
 # ╔═╡ 61dc8cb4-1ddc-11eb-065a-fdfe7782833d
-lengths = [hailLength(x0) for x0 in 2:10^7];
+lengths = [hailLength(x0) for x0 in 2:12^7];
 
 # ╔═╡ 61dda098-1ddc-11eb-19ba-c3b600208626
 histogram(lengths, bins=1000, normed=:true, 
